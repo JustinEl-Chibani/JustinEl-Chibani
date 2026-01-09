@@ -8,6 +8,6 @@ Hi, I'm Justin. This is where I share projects I've built—mainly from school a
 		*Everything here reflects what I’ve worked on directly.*
 
 🌐 Portfolio
-You can also check out my portfolio (still a work in progress): https://justinel-chibani.github.io/ 
+You can also check out my portfolio (still a work in progress): https://justinelchibani.dev/
 
 Thanks for stopping by!
