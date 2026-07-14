@@ -1,5 +1,5 @@
 👋 Welcome to My GitHub!
-Hi, I'm Justin. This is where I share projects I've built—mainly from school and some personal work.
+Hi, I'm Justin. This is where I share projects I've built — mainly from school and some personal work.
 
 📂 What's Here:
 	🎓 Projects developed for coursework and labs
@@ -7,7 +7,6 @@ Hi, I'm Justin. This is where I share projects I've built—mainly from school a
 	🔁 Forked versions of my own work from school organizations (for easier access)
 		*Everything here reflects what I’ve worked on directly.*
 
-🌐 Portfolio
-You can also check out my portfolio (still a work in progress): https://justinelchibani.dev/
+🌐 Portfolio: You can also check out my portfolio (still a work in progress): https://justinelchibani.dev/
 
 Thanks for stopping by!
