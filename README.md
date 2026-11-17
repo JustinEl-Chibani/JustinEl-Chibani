@@ -45,4 +45,4 @@ stateDiagram-v2
     Working --> Sleep: reasonable time
     Sleep --> [*]
 ```
-PS. I just found out I could make mermaid diagrams look handdrawn (Thank you Claude). ngl am proud of the accurace of my state machine
+PS. I just found out I could make mermaid diagrams look handdrawn (Thank you Claude). ngl am proud of the accuracy of my state machine
