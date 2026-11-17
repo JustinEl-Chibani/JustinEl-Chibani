@@ -1,20 +1,19 @@
-# 👋 Welcome to My GitHub!
+### 👋 Welcome to My GitHub!
 
 Hi, I'm Justin. This is where I share projects I've built — mainly from school and some personal work.
 
-## 📂 What's Here:
-
+#### 📂 What's Here:
 - Projects developed for coursework and labs
 - Personal projects
 - Forked versions of my work with others (for easier access)
 
-  *Everything here reflects what I've worked on directly.*
+<sub>*Everything here reflects what I've worked on directly.*
 
-## 🌐 Portfolio
+##### 🌐 Portfolio
 
 You can also check out my portfolio (still a work in progress): [justinelchibani.dev](https://justinelchibani.dev/)
 
-## me:
+### me:
 
 ```mermaid
 %%{init: {"look": "handDrawn", "fontFamily": "segoe print, bradley hand, comic sans ms, cursive"}}%% 
