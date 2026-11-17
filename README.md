@@ -17,6 +17,7 @@ You can also check out my portfolio (still a work in progress): [justinelchibani
 ## me:
 
 ```mermaid
+%%{init: {"look": "handDrawn", "fontFamily": "segoe print, bradley hand, comic sans ms, cursive"}}%% 
 stateDiagram-v2
     state decide <<choice>>
 
@@ -45,3 +46,4 @@ stateDiagram-v2
     Working --> Sleep: reasonable time
     Sleep --> [*]
 ```
+PS. I just found out I could make mermaid diagrams look handdrawn (Thank you Claude). ngl am proud of the accurace of my state machine
